@@ -1,0 +1,15 @@
+name: SLindicators
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - xarray
+  - ipykernel
+  - scipy
+  - seaborn
+  - cartopy
+  - jupyter-book
+  - netcdf4
+  - pip:
+    - copernicus-marine-client

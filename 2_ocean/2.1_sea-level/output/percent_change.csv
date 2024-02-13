@@ -1,0 +1,7 @@
+# station: Station name
+# country: Country name
+# threshold: Threshold in cm above MHHW
+# percent_change_days: Percent change in flood days per year
+# percent_change_hours: Percent change in flood hours per year
+station,country,threshold,percent_change_days,percent_change_hours
+Malakal,Palau,30,61.83683618185175,113.806306245016
